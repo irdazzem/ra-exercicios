@@ -12,4 +12,4 @@ elif caminho == 1:
         print("Você subiu na montanha e encontrou um raro tesouro no topo.")
     else:
         print("Você permanece perdido na floresta.")
-    
+        
